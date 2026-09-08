@@ -1,0 +1,10 @@
+print("example of True, False, and, or, not keywords")
+
+# so sánh hai toán hạng bằng toán tử and
+print(True and True)
+
+# so sánh hai toán hạng bằng toán tử or
+print(True or False)
+
+# sử dụng toán tử not
+print(not False)
